@@ -10,6 +10,8 @@ public class Journal_QI_1 {
 		a=in.nextInt(); 
 		if(a%2!=0&&a>=100){ 
 		System.out.println("Success");
+			
+			System.out.println("i missed it");
 		} 
 		} 
 		} 
