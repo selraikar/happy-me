@@ -11,7 +11,7 @@ public class Journal_QI_1 {
 		if(a%2!=0&&a>=100){ 
 		System.out.println("Success");
 			
-			System.out.println("i missed it");
+			System.out.println("no Lets be sure");
 		} 
 		} 
 		} 
